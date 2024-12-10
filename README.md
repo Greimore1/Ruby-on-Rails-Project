@@ -20,12 +20,4 @@ A lightweight, straightforward task management application designed for corporat
 3. Setup database: `rails db:create db:migrate`
 4. Start server: `rails server`
 
-## Usage
-Manage your team's workflow by creating, tracking, and completing tasks systematically.
 
-## Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit changes
-4. Push to the branch
-5. Create a Pull Request
